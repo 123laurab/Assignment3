@@ -15,7 +15,7 @@
         Kevin Forbes
     </author>
 
-	<icon src="icon.png" />
+	<icon src="newIcon.jpg" />
 	<gap:splash src="splash.png" />
 
 	<gap:platform name="ios" />
