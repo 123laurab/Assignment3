@@ -7,7 +7,7 @@
 	background-color:grey;
 	padding:0px 20px 0px 20px;
 	height:100px;
-	width:100%;
+	width:300px;
 	font-family:cursive;
 	position:relative;
 	
@@ -17,7 +17,7 @@ h1 {
 	color:blue;
 	background-color:grey;
 	font-family:cursive;
-	width:100%;
+	width:300px;
 		
 }
 
@@ -29,7 +29,7 @@ h1 {
 	background-color:grey;
 	padding:0px 20px 0px 20px;
 	height:150px;
-	width:100%;
+	width:300px;
 	font-family:cursive;
 	position:relative;
 	top:-50px;
@@ -40,7 +40,7 @@ h1 {
 
 	position:relative;
 	left:120px;
-
+	width:300px;
 }
 
 
@@ -54,7 +54,7 @@ h1 {
 	font-family:cursive;
 	position:relative;
 	top:-60px;
-	width:100%;
+	width:300px;
 	left:-167px;
 
 }
